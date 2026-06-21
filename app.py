@@ -12,7 +12,7 @@ st.title("LAPORAN UAS: EXPLORATORY DATA ANALYSIS & SENTIMENT ANALYSIS")
 st.markdown("**Nama:** Muhammad Raffli")
 st.markdown("**NIM:** 2025492005")
 st.markdown("**Topik:** Analisis Sentimen Ulasan Aplikasi Zoom Cloud Meetings pada Google Play Store")
-st.markdown("**Link Dashboard:** [Klik di sini untuk membuka web](MASUKKAN_LINK_LU_DI_SINI)")
+st.markdown("**Link Dashboard:** [Klik di sini untuk membuka web](https://uas-eda-bc4q4yz8jwhpszbn5xttfp.streamlit.app/)")
 st.markdown("---")
 
 # ==========================================
